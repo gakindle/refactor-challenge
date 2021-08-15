@@ -46,6 +46,10 @@ a {
     text-decoration: none;
 }
 
+span {
+    color: #fff;
+}
+
 p {
     font-size: 16px;
 }
